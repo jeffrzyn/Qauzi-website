@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+    max-width: 500px;
+    margin: auto;
+    line-height: 1.9em;
+    padding-top: 20px;
+
+}
+button:hover{
+    background-color: rgb(42, 165, 108);
+
+}
